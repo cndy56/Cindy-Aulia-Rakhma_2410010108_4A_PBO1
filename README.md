@@ -193,5 +193,5 @@ try {
 
 ## Pembuat
 
-Nama: Muhammad Edya Rosadi
-NPM: 2110010001
+Nama: Cindy Aulia Rakhma
+NPM: 2410010108
